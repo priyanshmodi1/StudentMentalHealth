@@ -1,1 +1,3 @@
+Background and motivation:
+
 According to Kaggle, the student mental health dataset was collected by a survey conducted in 2020 by Google forms from University students in order to examine their current academic situation and mental health. The motivation behind analyzing this dataset is to see how prevalent mental health issues are for university students and how this relates to various variables including but not limited to their gender, age, year in school, cGPA, and marital status. As a college student, this is a relatable topic and would be informative to see if there are any strong correlations between these variables.
